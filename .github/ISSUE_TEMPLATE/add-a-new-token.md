@@ -1,5 +1,5 @@
 ---
-name: Add a New Token
+name: Add a New Token VERONEUM (VRN)
 about: Request addition of a new token to tokenbase
 
 ---
@@ -22,16 +22,21 @@ Got questions? Join
 -->
 
 **Token address:**
-
+0x0f1c79cf0458160e2b41e94065a7df9a452c6579
 
 **Issuer's official website:**
-
+https://www.veroneum.io
 
 **Description:** <!-- 1-3 sentences for the token's description: at least one on the token issuer (eg., the product they are building) and one on token's purpose. -->
+The worldwide community-driven decentralized cryptocurrency that allows individuals to store and invest their assets for substantial return on investment.
 
+Veroneum creates technology to facilitate and expand the ecosystem through exchange service, cloud mining, and the VRN network (Veroneum)
+
+Veroneum token that build in blockchain of Ethereum via as ERC20 
 
 **A link to the official contract address confirmation:** <!-- Contract address confirmation MUST be linked from the official website and MUST be visible publicly. If the confirmation is not visible immediately, include an explanation of how to find it. -->
-
+https://ethplorer.io/address/0x0f1c79cf0458160e2b41e94065a7df9a452c6579
+https://www.etherchain.org/account/0f1c79cf0458160e2b41e94065a7df9a452c6579
 
 **At least 2 links to third-party reviews or discussion of the token, the project/product, or the token issuer:**
 <!--
@@ -42,5 +47,5 @@ Note:
 * We are looking for substance in reviews. BitcoinTalk announcements and ICO aggregator pages are NOT an acceptable source. Reviews like "Interesting project, good luck", "to the moon" are NOT acceptable.
 * Project's social media channels (Reddit, Twitter, Facebook, Telegram and others) are not acceptable.
 -->
-1. 
-2.
+1. https://findico.io/ico/veroneum-vrn
+2. https://www.trackico.io/ico/veroneum/#financial
